@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: cont1
-          image: anilsrimanthula/mytreegame:v1
+          image: anilsrimanthula/mytrisgame:v1
           ports:
             - containerPort: 3000
