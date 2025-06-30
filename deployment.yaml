@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: cont1
-          image: shaikmustafa/cycle
+          image: anilsrimanthula/mytreegame
           ports:
-            - containerPort: 80
+            - containerPort: 3000
